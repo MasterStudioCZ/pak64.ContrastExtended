@@ -5,6 +5,6 @@ type=depot
 waytype=road
 # must be 1*1
 NoInfo=1
-BackImage[0][0][0][0][0][0]=road_depot.0.0
+BackImage[0][0][0][0][0]=road_depot.0.0
 icon=> road_depot.0.1
 cursor=bdz.0.0

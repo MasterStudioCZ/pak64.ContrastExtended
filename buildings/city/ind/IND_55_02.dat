@@ -5,7 +5,7 @@ Type=ind
 Level=2
 needs_ground=1
 
-BackImage[0][0][0][0][0][0]=IND_55_02.0.0
-BackImage[1][0][0][0][0][0]=IND_55_02.0.1
-BackImage[2][0][0][0][0][0]=IND_55_02.0.2
-BackImage[3][0][0][0][0][0]=IND_55_02.0.3
+BackImage[0][0][0][0][0]=IND_55_02.0.0
+BackImage[1][0][0][0][0]=IND_55_02.0.1
+BackImage[2][0][0][0][0]=IND_55_02.0.2
+BackImage[3][0][0][0][0]=IND_55_02.0.3

@@ -8,5 +8,5 @@ needs_ground=1
 copyright=Kristian Koerselman
 Dims=1,1,2
 
-BackImage[0][0][0][0][0][0]=tow_03.0.0
+BackImage[0][0][0][0][0]=tow_03.0.0
 BackImage[0][0][0][1][0][0]=tow_03.1.0

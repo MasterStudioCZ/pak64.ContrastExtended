@@ -13,7 +13,7 @@
 #BackImage[0][1][1][0][0][0]=foundation_hq.2.0
 #BackImage[0][1][0][0][0][0]=foundation_hq.2.1
 #BackImage[0][0][1][0][0][0]=foundation_hq.2.2
-#BackImage[0][0][0][0][0][0]=foundation_hq.2.3
+#BackImage[0][0][0][0][0]=foundation_hq.2.3
 ----------------------------
 Obj=factory
 name=Foundation building
@@ -31,7 +31,7 @@ Dims=2,2,1
 BackImage[0][1][1][0][0][0]=foundation_building.2.0
 BackImage[0][1][0][0][0][0]=foundation_building.2.1
 BackImage[0][0][1][0][0][0]=foundation_building.2.2
-BackImage[0][0][0][0][0][0]=foundation_building.2.3
+BackImage[0][0][0][0][0]=foundation_building.2.3
 ----------------------------
 Obj=factory
 name=Lonely house
@@ -45,4 +45,4 @@ OutputGood[0]=Blocks
 OutputCapacity[0]=50
 MapColor=175
 Dims=1,1,1
-BackImage[0][0][0][0][0][0]=foundation_house.0.0
+BackImage[0][0][0][0][0]=foundation_house.0.0

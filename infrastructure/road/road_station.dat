@@ -6,8 +6,8 @@ enables_pax=1
 NoInfo=1
 Dims=1,1,2
 level=1
-BackImage[0][0][0][0][0][0]=road_station.0.0
-BackImage[1][0][0][0][0][0]=road_station.0.1
+BackImage[0][0][0][0][0]=road_station.0.0
+BackImage[1][0][0][0][0]=road_station.0.1
 icon=> road_station.0.3
 cursor=bdz.0.0
 ----------------------------
@@ -44,5 +44,5 @@ level=1
 dims=1,1,1
 cursor=bdz.0.0
 icon=> road_station.2.3
-BackImage[0][0][0][0][0][0]=road_station.2.0
+BackImage[0][0][0][0][0]=road_station.2.0
 needs_ground=1

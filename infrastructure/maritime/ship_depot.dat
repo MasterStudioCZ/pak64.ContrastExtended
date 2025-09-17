@@ -3,6 +3,6 @@ Name=ShipDepot
 # must be 1*1
 NoInfo=1
 noconstruction=1
-BackImage[0][0][0][0][0][0]=ship_depot.0.0
+BackImage[0][0][0][0][0]=ship_depot.0.0
 icon=> ship_depot.0.1
 cursor=bdz.0.0

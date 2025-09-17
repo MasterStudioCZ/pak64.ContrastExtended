@@ -6,7 +6,7 @@ needs_ground=1
 copyright=MasterStudioCZ
 climates=temperate
 
-BackImage[0][0][0][0][0][0]=RES_55_05_03.0.0
-BackImage[1][0][0][0][0][0]=RES_55_05_03.0.1
-BackImage[2][0][0][0][0][0]=RES_55_05_03.0.2
-BackImage[3][0][0][0][0][0]=RES_55_05_03.0.3
+BackImage[0][0][0][0][0]=RES_55_05_03.0.0
+BackImage[1][0][0][0][0]=RES_55_05_03.0.1
+BackImage[2][0][0][0][0]=RES_55_05_03.0.2
+BackImage[3][0][0][0][0]=RES_55_05_03.0.3
