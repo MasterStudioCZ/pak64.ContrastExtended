@@ -5,6 +5,7 @@ Level=6
 needs_ground=1
 copyright=MasterStudioCZ
 climates=arctic
+dims=1,1,4
 
 BackImage[0][0][0][0][0]=RES_56_06.0.0
 BackImage[1][0][0][0][0]=RES_56_06.0.1

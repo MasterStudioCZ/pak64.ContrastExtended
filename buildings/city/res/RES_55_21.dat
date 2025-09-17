@@ -5,7 +5,8 @@ Level=21
 needs_ground=1
 copyright=Kristian Koerselman
 climates=temperate
+dims=1,1,1
 
-BackImage[0][0][0][0][0]=RES_55_21.0.0
-BackImage[0][0][0][1][0][0]=RES_55_21.1.0
-BackImage[0][0][0][1][0][0]=RES_55_21.2.0
+BackImage[0][0][0][0][0]=RES_55_21.2.0
+BackImage[0][0][0][1][0]=RES_55_21.1.0
+BackImage[0][0][0][2][0]=RES_55_21.0.0
